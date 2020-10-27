@@ -1,10 +1,4 @@
-"""
-web server 程序
 
-完成一个类，提供给使用者
-可以通过这个类快速搭建服务
-完成网页展示
-"""
 from socket import *
 from select import select
 import re
